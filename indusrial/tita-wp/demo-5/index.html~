@@ -1,0 +1,972 @@
+<!doctype html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+
+<html class="no-js"  lang="en-US"  >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tita 3D theme &#8211; Demo 5</title>
+    <link rel="alternate" type="application/rss+xml" title="Tita 3D theme - Demo 5 &raquo; Feed" href="http://themes.webdevia.com/tita-wp/demo-5/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tita 3D theme - Demo 5 &raquo; Comments Feed" href="http://themes.webdevia.com/tita-wp/demo-5/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tita 3D theme - Demo 5 &raquo; Home Comments Feed" href="http://themes.webdevia.com/tita-wp/demo-5/home/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A400%2C700%2C300%7COpen+Sans%3A200%2C400%2C300%2C700' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wd_body_google_fonts-css'  href='http://fonts.googleapis.com/css?family' type='text/css' media='all' />
+<link rel='stylesheet' id='wd_header_google_fonts-css'  href='http://fonts.googleapis.com/css?family' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css'  href='wp-content/themes/tita-3d/css/foundation.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-tita-css'  href='wp-content/themes/tita-3d/css/style.css' type='text/css' media='all' />
+<style type='text/css'>
+article.node-blog,
+                    article.post,
+                    .alert-box {
+                     background-color: #FAFAFA;
+                  } .page-section-50 {
+        background: #FFFFFF;
+        color:      #444444;
+      }  .page-section-5 {
+        background: #FFFFFF;
+        color:      #444444;
+      }  .page-section-8 {
+        background: #FFFFFF;
+        color:      #444444;
+      }  .page-section-38 {
+        background: #FFFFFF;
+        color:      #444444;
+      }  .page-section-22 {
+        background: #FFFFFF;
+        color:      #444444;
+      }  .page-section-47 {
+        background: #FFFFFF;
+        color:      #444444;
+      }  .page-section-1797 {
+        background: #FFFFFF;
+        color:      #444444;
+      } .page-section.home-page {
+      background: url(index.html) #FFFFFF;
+      color:      #444444;
+      background-size: cover;
+    }
+    .showMenu,
+    .showMenu a {
+      color:      #444444;
+    } .meny a,#lang_sel_list ul li a.lang_sel_other,#lang_sel_list ul li a.lang_sel_sel {
+      color:      ;
+    }
+    .menu-list li:hover, 
+    .menu-list li.active,.menu-list a:hover {
+      background-color: ;
+    }
+    .meny .sub-menu {
+      background-color: ;
+    }
+    
+    .meny {
+      background-image: url(index.html);
+      background-size: cover;
+      background-color: ;
+      color:      1;
+    }a,
+    .primary-color_color, 
+    div.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav.ui-accordion-header-active a, 
+    div.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav .ui-tabs-active a, 
+    div.wpb_content_element .wpb_accordion_header.ui-accordion-header-active a, 
+    div.wpb_content_element .wpb_accordion_header .ui-tabs-active a, .post-info a, 
+    article.post.type-post .field-name-field-blog-tags .links > li a, 
+    .sidebar-right ul li.recentcomments a:last-child,
+    .boxes.small .box-icon i {
+      color: ;
+    }.primary-color_bg, 
+    .article.portfolio-item:hover figcaption, 
+    .dispalyMenu, .cart-count > a, .galleries-page .galleries-item:hover figcaption, 
+    .pricing-table.featured .title, 
+    .woocommerce .products li.product .button, .woocommerce .l-main #content input.button.alt, 
+    .woocommerce .l-main #respond input#submit.alt, .woocommerce .l-main a.button.alt, 
+    .woocommerce .l-main button.button.alt, .woocommerce .l-main input.button.alt, 
+    .woocommerce-page .products li.product .button, .woocommerce-page .l-main #content input.button.alt, 
+    .woocommerce-page .l-main #respond input#submit.alt, .woocommerce-page .l-main a.button.alt, 
+    .woocommerce-page .l-main button.button.alt, .woocommerce-page .l-main input.button.alt, 
+    .woocommerce .sidebar-right .widget_price_filter .ui-slider .ui-slider-range, 
+    .woocommerce-page .sidebar-right .widget_price_filter .ui-slider .ui-slider-range, 
+    .woocommerce .woocommerce-message:before, .woocommerce-page .woocommerce-message:before, 
+    button, .button, .sidebar-right .block-title:after, 
+    input.wpcf7-submit,
+    .sidebar-right .block-title,
+    .sidebar-right table caption,
+
+    .sidebar-right .searchform #searchsubmit, 
+    .woocommerce #content input.button, 
+    .woocommerce #respond input#submit, 
+    .woocommerce a.button, .woocommerce button.button, 
+    .woocommerce input.button, .woocommerce-page #content input.button, 
+    .woocommerce-page #respond input#submit, .woocommerce-page a.button, 
+    .woocommerce-page button.button, .woocommerce-page input.button, 
+    .woocommerce span.onsale, .woocommerce-page span.onsale,
+    .sidebar-right .searchform #searchsubmit,
+    .widget_product_search #searchsubmit,
+    .page-section .space {
+      background-color: ;
+      color: #fff;
+    }.primary-color_border, 
+    .pricing-table.featured, 
+    div.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav.ui-accordion-header-active a, 
+    div.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav .ui-tabs-active a, 
+    div.wpb_content_element .wpb_accordion_header.ui-accordion-header-active a, 
+    div.wpb_content_element .wpb_accordion_header .ui-tabs-active a, 
+    .woocommerce .woocommerce-message, 
+    .woocommerce-page .woocommerce-message,
+    .boxes.layout-2 .box-icon, 
+    .boxes.layout-3 .box-icon,
+    
+    
+    article.node-blog.sticky {
+      border-color: ;
+    }.flickr i,.facebook i,.twitter i,.google_plus i,.linkedin i,.youtube i,.instagram i,.pinterest i,.github i,.vemo i {
+      color: ;
+		}.flickr a,.facebook a,.twitter a,.google_plus a,.linkedin a,.youtube a,.instagram a,.pinterest a,.github a,.vemo a  {
+			background : ; 
+			border-radius : ; 
+    }.menu-holder {
+      background-color: 1;
+    }.menu-list {
+      padding: 0;
+    } .menu-list a {
+      font-weight: normal;
+      padding : 10px 38px;
+			font-size : 1.1em;
+    }  
+          div#slides .slides-container .wd-slide-53  h2 {
+            font-size: 4em;
+            font-weight: Normal;
+            color : #fff;
+          }
+        
+          div#slides .slides-container .wd-slide-53  p{
+            font-size: 1.3566em;
+            font-weight: Normal;
+          }
+          div#slides .slides-container .wd-slide-53  {
+            text-align : center;
+            color : #fff;
+          }
+          div#slides .wd-slide-53 .show-me{
+            border : 2px solid #fff;
+            color : #fff;
+          }  
+          div#slides .slides-container .wd-slide-52  h2 {
+            font-size: 4em;
+            font-weight: Normal;
+            color : #fff;
+          }
+        
+          div#slides .slides-container .wd-slide-52  p{
+            font-size: 1.3566em;
+            font-weight: Normal;
+          }
+          div#slides .slides-container .wd-slide-52  {
+            text-align : center;
+            color : #fff;
+          }
+          div#slides .wd-slide-52 .show-me{
+            border : 2px solid #fff;
+            color : #fff;
+          } 
+</style>
+<link rel='stylesheet' id='blocks-css'  href='wp-content/themes/tita-3d/css/block.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css'  href='wp-content/themes/tita-3d/css/slider.css' type='text/css' media='all' />
+<link rel='stylesheet' id='reponsive-css'  href='wp-content/themes/tita-3d/css/reponsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-custom-css'  href='wp-content/themes/tita-3d/css/animate-custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='vegas-css'  href='wp-content/themes/tita-3d/css/jquery.vegas.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animations-css'  href='wp-content/themes/tita-3d/css/animations.css' type='text/css' media='all' />
+<link rel='stylesheet' id='superslides-css'  href='wp-content/themes/tita-3d/css/superslides.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsiveslides-css'  href='wp-content/themes/tita-3d/css/responsiveslides.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css'  href='wp-content/themes/tita-3d/css/woocommerce.css' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/modernizr.custom.js'></script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/foundation/foundation.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/foundation/foundation.abide.js'></script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/responsiveslides.js'></script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/jquery.inview.js'></script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/jquery.vegas.js'></script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/meny.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/jquery.appear.js'></script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/isotope.pkgd.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/superslides.js'></script>
+<script type='text/javascript' src='wp-includes/js/hoverIntent.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themeParams = {"pageTransition":"58","MenuStyle":"3d"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/themes/tita-3d/js/scripts.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://themes.webdevia.com/tita-wp/demo-5/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://themes.webdevia.com/tita-wp/demo-5/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="Bluefish 2.2.7" />
+<link rel='canonical' href='index.html' />
+<link rel='shortlink' href='index.html' />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+  </head>
+  <body class="home page page-id-50 page-template page-template-page-templatefront-page-php html  page-node menu-1 menu-3d">
+    
+    <a class="show-menu show-meny"><i class="fa fa-bars back"></i><span>Menu</span></a>
+    <div class="meny">
+      <h1>
+                <a href="index.html#Home" title="Home" rel="home" id="logo"> 
+          <img src="wp-content/uploads/sites/6/2014/10/tita-logo_0.png" alt="Home" />
+        </a>
+               
+             </h1>
+
+
+      <nav class="menu-menu-1-container"><ul id="menu-menu-1" class="menu-list"><li><a href="index.html#Home"><i class="fa-home fa color--50  "></i>Home</a></li><li><a href="index.html#About"><i class="fa-check fa color--5  "></i>Collection</a></li><li><a href="index.html#Services"><i class="fa-puzzle-piece fa color--38  "></i>Services</a></li><li><a href="index.html#Team"><i class="fa-users fa color--8  "></i>Team</a></li><li><a href="index.html#Portfolio"><i class="fa-briefcase fa color--22  "></i>Portfolio</a></li><li><a href="index.html#Blog"><i class="fa-pencil fa color--47  "></i>Blog</a></li><li><a href="index.html#Contactus"><i class="fa-envelope-o fa color--1797  "></i>Contact us</a></li></ul></nav>    
+      
+      <ul class="social-icons inline-list">
+      	        	 <li class="facebook">
+          <a target="_blank" href="https://www.facebook.com/WebDevia"><i class="fa fa-facebook"></i></a>
+        </li>
+                          <li class="twitter">
+          <a target="_blank" href="https://twitter.com/"> <i class="fa fa-twitter"></i></a>
+        </li>
+                         <li class="google_plus">
+          <a target="_blank" href="http://www.google.com/plus"><i class="fa fa-google-plus"></i></a>
+        </li>
+                                           <li class="flickr">
+          <a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a>
+        </li>
+                                                    
+      </ul>
+      
+      			
+    </div>
+<div class="pt-perspective page" id="spaces-main">
+
+    
+  <section class="page-section Home-page page-section-50">
+
+     
+          
+      <div id="slides" data-wd_play="">                    
+        <ul class="slides-container">    
+               
+              <li class="image-slide">
+              	
+                <img width="1728" height="1157" src="wp-content/uploads/sites/6/2014/09/maldives-1.jpg" class="attachment-full-screen" alt="maldives-1" /> 
+                      
+                    <span class="hide slider-thumbnail-0">
+                      <img width="150" height="150" src="wp-content/uploads/sites/6/2014/09/maldives-1-150x150.jpg" class="attachment-thumbnail" alt="maldives-1" />                    </span>
+                    
+                                 
+                
+                
+                <div class="container home-text wd-slide-53 center v-center">
+                  <h2>Industrial Effects</h2>
+                                      <p>Effects on the environment </p>
+                   
+                  
+                                    
+                </div>
+									              </li>
+                     
+               
+              <li class="image-slide">
+              	
+                <img width="1754" height="1140" src="wp-content/uploads/sites/6/2014/09/new-york-.jpg" class="attachment-full-screen" alt="new-york-" /> 
+                      
+                    <span class="hide slider-thumbnail-1">
+                      <img width="150" height="150" src="wp-content/uploads/sites/6/2014/09/new-york--150x150.jpg" class="attachment-thumbnail" alt="new-york-" />                    </span>
+                    
+                                 
+                
+                
+                <div class="container home-text wd-slide-52 center v-center">
+                  <h2>Which also effects the humans and animals</h2>
+                                      
+                  
+                                      <a class="button show-meny show-me rollOut" href="index.html" >
+                      Show me                    </a>
+                                    
+                </div>
+									              </li>
+                     
+                      </ul>
+          
+                    <div class="wd_nav_slider">
+          	            	<nav class="nav slides-navigation">
+              <a class="prev" href="index.html#">
+                <span class="icon-wrap"><i class="fa fa-angle-left  fa-3"></i></span>
+                <img width="150" height="150" src="wp-content/uploads/sites/6/2014/09/new-york--150x150.jpg" class="attachment-thumbnail" alt="new-york-" />              </a>
+              <a class="next" href="index.html#">
+                <span class="icon-wrap"><i class="fa fa-angle-right fa-3"></i></span>
+                <img width="150" height="150" src="wp-content/uploads/sites/6/2014/09/new-york--150x150.jpg" class="attachment-thumbnail" alt="new-york-" />              </a>
+            </nav>
+            	            </div>
+                </div> 
+        
+
+
+  </section>
+  
+  <section class="page-section About-page page-section-1909"><div class="row menu-row">    
+              <div class="large-12 large-centered  text-center columns">
+                <h2 class="section-title">Collection</h2><div class="space"></div>
+              </div>
+            </div><div class="row">
+<div class="large-12 columns page-sub-title text-center">
+<p> These are some data we had collected on the effects on the environment due to industries.<p>
+</div>
+<div class="large-12 columns services-divs">
+<h3 class="text-center small-title">WHAT WE DO?</h3>
+<a href="https://www.slideshare.net/yashaspanur/industrial-pollution-15671227" >
+<div class="large-4 columns">
+<div class="service-div text-center">
+<div class="icon-container green-bg">
+                    <i class="fa-rocket fa fa-4x"></i>
+                  </div>
+<h3>ppts</h3>
+<p class="text-left">These are the ppts which contain the interesing knowledge on the environmental effects due to the industries .</p>
+</div>
+</div></a>
+<a href="https://www.youtube.com/results?search_query=industrial+effect+on+environment" >
+<div class="large-4 columns">
+<div class="service-div text-center">
+<div class="icon-container orange-bg">
+                    <i class="fa-cogs fa fa-4x"></i>
+                  </div>
+<h3>Videos</h3>
+<p class="text-left"> These are the videos which contain the interesing knowledge on the environmental effects due to the industries.</p>
+</div>
+</div></a>
+<a href="https://www.eartheclipse.com/pollution/terrible-effects-of-industrial-pollution.html" >
+<div class="large-4 columns">
+<div class="service-div text-center">
+<div class="icon-container pink-bg">
+                    <i class="fa-trophy fa fa-4x"></i>
+                  </div>
+<h3>Links</h3>
+<p class="text-left">These are the links which contain the interesing knowledge on the environmental effects due to the industries.</p>
+</div>
+</div></a>
+</div>
+</div>
+          </section><section class="page-section Team-page page-section-8"><div class="row menu-row">    
+              <div class="large-12 large-centered  text-center columns">
+                <h2 class="section-title">Team</h2><div class="space"></div>
+              </div>
+            </div><div class="row">
+<div class="large-12 text-center page-sub-title">
+                 
+</div>
+</div>
+  
+    
+      <div class="row">
+        
+    <ul class="team-list small-block-grid-1 large-block-grid-4 text-center">
+       
+            <li>
+              <div class="team-member-item">
+                <div class="team-member-picture">
+                <img width="320" height="280" src="wp-content/uploads/sites/6/2014/08/s-5-320x280.jpg" class="attachment-320x280" alt="s-5" />   
+                                
+                  <div class="team-member-desc">
+                  	                  	<p>  </p>
+                  </div>            
+               </div>
+                <h3 class="team-member-name">Mauris Nian</h3>
+                <h4>Founder</h4>
+              </div>
+            </li>
+       
+            <li>
+              <div class="team-member-item">
+                <div class="team-member-picture">
+                <img width="320" height="280" src="wp-content/uploads/sites/6/2014/08/s-3-320x280.jpg" class="attachment-320x280" alt="s-3" />   
+                                
+                  <div class="team-member-desc">
+                  	                  	<p>  </p>
+                  </div>            
+               </div>
+                <h3 class="team-member-name">Amine Jazouli</h3>
+                <h4>Project Manager</h4>
+              </div>
+            </li>
+       
+            <li>
+              <div class="team-member-item">
+                <div class="team-member-picture">
+                <img width="320" height="280" src="wp-content/uploads/sites/6/2014/08/s-4-320x280.jpg" class="attachment-320x280" alt="s-4" />   
+                                
+                  <div class="team-member-desc">
+                  	                  	<p>  </p>
+                  </div>            
+               </div>
+                <h3 class="team-member-name">Ouzoun Nit</h3>
+                <h4>Developer</h4>
+              </div>
+            </li>
+       
+            <li>
+              <div class="team-member-item">
+                <div class="team-member-picture">
+                <img width="320" height="280" src="wp-content/uploads/sites/6/2014/08/s-9-320x280.jpg" class="attachment-320x280" alt="s-9" />   
+                                
+                  <div class="team-member-desc">
+                  	                  	<p>  </p>
+                  </div>            
+               </div>
+                <h3 class="team-member-name">Shi Wahed</h3>
+                <h4>Designer</h4>
+              </div>
+            </li>
+       
+            <li>
+              <div class="team-member-item">
+                <div class="team-member-picture">
+                <img width="320" height="280" src="wp-content/uploads/sites/6/2014/08/s-6-320x280.jpg" class="attachment-320x280" alt="s-6" />   
+                                
+                  <div class="team-member-desc">
+                  	                  	<p>  </p>
+                  </div>            
+               </div>
+                <h3 class="team-member-name">Ahmed Ali</h3>
+                <h4>Manager</h4>
+              </div>
+            </li>
+       
+            <li>
+              <div class="team-member-item">
+                <div class="team-member-picture">
+                <img width="320" height="280" src="wp-content/uploads/sites/6/2014/08/s-7-320x280.jpg" class="attachment-320x280" alt="s-7" />   
+                                
+                  <div class="team-member-desc">
+                  	                  	<p>  </p>
+                  </div>            
+               </div>
+                <h3 class="team-member-name">Ali Karimi</h3>
+                <h4>Designer</h4>
+              </div>
+            </li>
+       
+            <li>
+              <div class="team-member-item">
+                <div class="team-member-picture">
+                <img width="320" height="280" src="wp-content/uploads/sites/6/2014/08/s-10-320x280.jpg" class="attachment-320x280" alt="s-10" />   
+                                
+                  <div class="team-member-desc">
+                  	                  	<p> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, </p>
+                  </div>            
+               </div>
+                <h3 class="team-member-name">Alea Smith</h3>
+                <h4>Developer</h4>
+              </div>
+            </li>
+       
+            <li>
+              <div class="team-member-item">
+                <div class="team-member-picture">
+                <img width="320" height="280" src="wp-content/uploads/sites/6/2014/08/s-1-320x280.jpg" class="attachment-320x280" alt="s-1" />   
+                                
+                  <div class="team-member-desc">
+                  	                  	<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                  </div>            
+               </div>
+                <h3 class="team-member-name">Alan Dinirat</h3>
+                <h4>Manager</h4>
+              </div>
+            </li>
+          </ul>
+    
+      </div>
+      
+    
+   
+
+          </section><section class="page-section Services-page page-section-38"><div class="row menu-row">    
+              <div class="large-12 large-centered  text-center columns">
+                <h2 class="section-title">Services</h2><div class="space"></div>
+              </div>
+            </div><div class="row">
+<div class="large-12 columns page-sub-title text-center">
+<p>In hac habitasse platea dictumst. Pellentesque in aliquet risus. In at consequat ipsum. Aenean leo elit, imperdiet ac volutpat ornare, mattis vel est. Aliquam rhoncus mi non tortor sodales placerat vel in dolor. Praesent lorem tellus, porta vitae enim sit amet, interdum imperdiet. </p>
+</div>
+<h3 class="text-center h3-title">WHAT WE DO?</h3>
+<div class="large-4 columns">
+<ul class="pricing-table">
+<li class="title">Standard</li>
+<li class="price">$99.99<small>/month</small></li>
+<li class="description">An awesome description</li>
+<li class="bullet-item">1 Database</li>
+<li class="bullet-item">5GB Storage</li>
+<li class="bullet-item">20 Users</li>
+<li class="cta-button"><a href="index.html#" class="button">Buy Now</a></li>
+</ul></div>
+<div class="large-4 columns">
+<ul class="pricing-table featured">
+<li class="title">Featured Plan</li>
+<li class="price">$99.99<small>/month</small></li>
+<li class="description">An awesome description</li>
+<li class="bullet-item">1 Database</li>
+<li class="bullet-item">5GB Storage</li>
+<li class="bullet-item">20 Users</li>
+<li class="cta-button"><a href="index.html#" class="button">Buy Now</a></li>
+</ul></div>
+<div class="large-4 columns">
+<ul class="pricing-table">
+<li class="title">Standard</li>
+<li class="price">$99.99<small>/month</small></li>
+<li class="description">An awesome description</li>
+<li class="bullet-item">1 Database</li>
+<li class="bullet-item">5GB Storage</li>
+<li class="bullet-item">20 Users</li>
+<li class="cta-button"><a href="index.html#" class="button">Buy Now</a></li>
+</ul></div>
+<p>&nbsp;</p>
+<h3 class="text-center h3-title">WHAT ELSE?</h3>
+<div class="large-12 columns services-divs">
+<table>
+<thead>
+<tr>
+<th>Table Header</th>
+<th>Table Header</th>
+<th>Table Header</th>
+<th>Table Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Goes Here</td>
+<td>This is longer content Donec id elit non mi porta gravida at eget metus.</td>
+<td>Content Goes Here</td>
+<td>Content Goes Here</td>
+</tr>
+<tr>
+<td>Content Goes Here</td>
+<td>This is longer Content Goes Here Donec id elit non mi porta gravida at eget metus.</td>
+<td>Content Goes Here</td>
+<td>Content Goes Here</td>
+</tr>
+<tr>
+<td>Content Goes Here</td>
+<td>This is longer Content Goes Here Donec id elit non mi porta gravida at eget metus.</td>
+<td>Content Goes Here</td>
+<td>Content Goes Here</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>&nbsp;</p>
+
+          </section><section class="page-section Portfolio-page page-section-22"><div class="row menu-row">    
+              <div class="large-12 large-centered  text-center columns">
+                <h2 class="section-title">Portfolio</h2><div class="space"></div>
+              </div>
+            </div><div class="row">
+<div class="large-12 text-center page-sub-title">
+<p>Donec id augue lectus. Integer laoreet urna tincidunt sem suscipit, pretium congue nunc dapibus. Proin ac pretium quam. Sed in metus quis elit elementum vestibulum. Quisque tincidunt, ante a egestas venenatis, est neque mattis nisl, ut volutpat turpis erat ac neque.</p>
+</div>
+  <div class="portfolio-page row">
+  	    <div id="project-info" class="hide">
+      
+    </div>
+    
+    <ul class="layout-2 wd_portfolio_isotop_content large-block-grid-4" >
+      
+       
+           <li class="item article portfolio-item all  nature " data-id="1839" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/10/strawberries-58195_1920-600x410.jpg" class="attachment-600x410 wp-post-image" alt="strawberries-58195_1920" />  
+              <figcaption class="text-center">
+              <h3>Aenean laoreet</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="1838" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/10/starfish-74535_1920-600x410.jpg" class="attachment-600x410 wp-post-image" alt="starfish-74535_1920" />  
+              <figcaption class="text-center">
+              <h3>Super Nature</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="1837" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/10/sparrow-9950_1280-600x410.jpg" class="attachment-600x410 wp-post-image" alt="sparrow-9950_1280" />  
+              <figcaption class="text-center">
+              <h3>Massa eu blandit</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="1836" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/10/journal-141494_1920-600x410.jpg" class="attachment-600x410 wp-post-image" alt="journal-141494_1920" />  
+              <figcaption class="text-center">
+              <h3>Suspendisse molestie sed</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="1835" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/10/ice-101776_1920-600x410.jpg" class="attachment-600x410 wp-post-image" alt="ice-101776_1920" />  
+              <figcaption class="text-center">
+              <h3>Fusce mollis placerat erat</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="1834" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/09/almond-blossom-5378_1280-600x410.jpg" class="attachment-600x410 wp-post-image" alt="almond-blossom-5378_1280" />  
+              <figcaption class="text-center">
+              <h3>Nam congue pulvinar dui</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="1833" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/10/7219038264_88ff5b6f43_b1-600x410.jpg" class="attachment-600x410 wp-post-image" alt="7219038264_88ff5b6f43_b1" />  
+              <figcaption class="text-center">
+              <h3>Phasellus blandit sapien</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="1832" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/10/butterfly-196745_640-600x410.jpg" class="attachment-600x410 wp-post-image" alt="butterfly-196745_640" />  
+              <figcaption class="text-center">
+              <h3>Consectetur adipiscing elit</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="1831" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/09/1j5Jo3o-1024x687-600x410.jpg" class="attachment-600x410 wp-post-image" alt="1j5Jo3o-1024x687" />  
+              <figcaption class="text-center">
+              <h3>Consectetur adipiscing elit</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="1830" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/09/1jjH2gh-1024x680-600x410.jpg" class="attachment-600x410 wp-post-image" alt="1jjH2gh-1024x680" />  
+              <figcaption class="text-center">
+              <h3>Feugiat Nunc</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="1822" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/10/flamingo-89367_640-600x410.jpg" class="attachment-600x410 wp-post-image" alt="flamingo-89367_640" />  
+              <figcaption class="text-center">
+              <h3>IPadd app</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+           <li class="item article portfolio-item all  nature " data-id="24" 
+             data-category="">
+        
+             <a href="index.html#" role="button" class="use-ajax portfolio-item-link">
+            <figure>
+              <img width="600" height="410" src="wp-content/uploads/sites/6/2014/09/beach-84533_1920-600x410.jpg" class="attachment-600x410 wp-post-image" alt="beach-84533_1920" />  
+              <figcaption class="text-center">
+              <h3>Project one</h3>
+              </figcaption>
+            </figure>
+            <span class="plus-icon flipOutX"><i class="fa-plus fa"></i></span>
+            </a>
+          </li>            
+           
+    </ul>
+  </div>
+
+</div>
+
+          </section><section class="page-section Blog-page page-section-47"><div class="row menu-row">    
+              <div class="large-12 large-centered  text-center columns">
+                <h2 class="section-title">Blog</h2><div class="space"></div>
+              </div>
+            </div>  
+  <div class="row blog-page" style="position: relative;">
+    <ul class="layout-2 large-block-grid-3" >  
+                    
+        
+        
+        
+          <li class="item  animated">        
+            <article class="article">
+              <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/vestibulum-risus-nulla/" title="Vestibulum risus nulla">
+                            <img width="720" height="420" src="wp-content/uploads/sites/6/2014/10/7219038264_88ff5b6f43_b1-720x420.jpg" class="attachment-small-blog-thumb wp-post-image" alt="7219038264_88ff5b6f43_b1" />                            </a>
+              <div class="post-body">
+                <div class="postdate left">
+                  <span class="day">22</span>
+                  <span class="year">09/14</span>
+                </div>
+                <h2>
+                  <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/vestibulum-risus-nulla/">Vestibulum risus nulla</a>
+                </h2>
+                <div class="post-author">By: admin</div>
+                <div class="blog-body">
+                Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin facilisis, velit non fringilla pharetra, elit odio tincidunt mi, non semper risus mauris a sapien. Maecenas vel mattis odio. Suspendisse non&hellip;                
+                <div class="post-info text-right">
+                  <span class="readmore"><a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/vestibulum-risus-nulla/"> Read more... </a></span> 
+              </div>
+                </div>
+                
+              </div>
+              </article>         
+            </li>
+        
+        
+        
+          <li class="item  animated">        
+            <article class="article">
+              <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/praesent-tincidunt-vulputate/" title="Praesent tincidunt vulputate">
+                            <img width="720" height="420" src="wp-content/uploads/sites/6/2014/10/sparrow-9950_12801-720x420.jpg" class="attachment-small-blog-thumb wp-post-image" alt="sparrow-9950_1280" />                            </a>
+              <div class="post-body">
+                <div class="postdate left">
+                  <span class="day">22</span>
+                  <span class="year">09/14</span>
+                </div>
+                <h2>
+                  <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/praesent-tincidunt-vulputate/">Praesent tincidunt vulputate</a>
+                </h2>
+                <div class="post-author">By: admin</div>
+                <div class="blog-body">
+                Fusce non hendrerit ante. Curabitur in libero neque. Nulla at vestibulum massa. Fusce feugiat tellus fermentum lorem cursus, at vestibulum mi venenatis. Donec mi dolor, posuere eu elementum tincidunt, molestie at ante. Donec tristique ut&hellip;                
+                <div class="post-info text-right">
+                  <span class="readmore"><a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/praesent-tincidunt-vulputate/"> Read more... </a></span> 
+              </div>
+                </div>
+                
+              </div>
+              </article>         
+            </li>
+        
+        
+        
+          <li class="item  animated">        
+            <article class="article">
+              <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/aenean-rutrum-dolor-nibh/" title="Aenean rutrum dolor nibh">
+                            <img width="720" height="420" src="wp-content/uploads/sites/6/2014/09/almond-blossom-5378_1280-720x420.jpg" class="attachment-small-blog-thumb wp-post-image" alt="almond-blossom-5378_1280" />                            </a>
+              <div class="post-body">
+                <div class="postdate left">
+                  <span class="day">22</span>
+                  <span class="year">09/14</span>
+                </div>
+                <h2>
+                  <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/aenean-rutrum-dolor-nibh/">Aenean rutrum dolor nibh</a>
+                </h2>
+                <div class="post-author">By: admin</div>
+                <div class="blog-body">
+                Etiam diam augue, aliquam vitae aliquet et, sagittis non orci. In hac habitasse platea dictumst. Nulla eget felis nec ligula luctus pulvinar. Vivamus at augue sed magna hendrerit consectetur. Pellentesque venenatis massa vel vehicula fringilla.&hellip;                
+                <div class="post-info text-right">
+                  <span class="readmore"><a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/aenean-rutrum-dolor-nibh/"> Read more... </a></span> 
+              </div>
+                </div>
+                
+              </div>
+              </article>         
+            </li>
+        
+        
+        
+          <li class="item  animated">        
+            <article class="article">
+              <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/maecenas-massa-eu-blandit/" title="Maecenas massa eu blandit">
+                            <img width="720" height="380" src="wp-content/uploads/sites/6/2014/10/4569424129_c8f7869562_b11-720x380.jpg" class="attachment-small-blog-thumb wp-post-image" alt="4569424129_c8f7869562_b11" />                            </a>
+              <div class="post-body">
+                <div class="postdate left">
+                  <span class="day">22</span>
+                  <span class="year">09/14</span>
+                </div>
+                <h2>
+                  <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/maecenas-massa-eu-blandit/">Maecenas massa eu blandit</a>
+                </h2>
+                <div class="post-author">By: admin</div>
+                <div class="blog-body">
+                Ut a lorem odio. Morbi vulputate nec orci sit amet iaculis. Sed eleifend nisi lorem, sit amet sagittis nunc volutpat non. Ut eu sagittis dui. Nam adipiscing nibh et neque viverra, in suscipit orci tristique.&hellip;                
+                <div class="post-info text-right">
+                  <span class="readmore"><a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/maecenas-massa-eu-blandit/"> Read more... </a></span> 
+              </div>
+                </div>
+                
+              </div>
+              </article>         
+            </li>
+        
+        
+        
+          <li class="item  animated">        
+            <article class="article">
+              <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/niteger-venenatis-nisi/" title="Niteger venenatis nisi">
+                            <img width="720" height="420" src="wp-content/uploads/sites/6/2014/10/watch-720x420.jpg" class="attachment-small-blog-thumb wp-post-image" alt="watch" />                            </a>
+              <div class="post-body">
+                <div class="postdate left">
+                  <span class="day">22</span>
+                  <span class="year">09/14</span>
+                </div>
+                <h2>
+                  <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/niteger-venenatis-nisi/">Niteger venenatis nisi</a>
+                </h2>
+                <div class="post-author">By: admin</div>
+                <div class="blog-body">
+                Sed auctor iaculis vehicula. Aliquam eu mi gravida, porta magna in, pellentesque enim. Phasellus et quam in magna viverra ornare mattis sit amet orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum et malesuada&hellip;                
+                <div class="post-info text-right">
+                  <span class="readmore"><a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/niteger-venenatis-nisi/"> Read more... </a></span> 
+              </div>
+                </div>
+                
+              </div>
+              </article>         
+            </li>
+        
+        
+        
+          <li class="item  animated">        
+            <article class="article">
+              <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/lorem-ipsum-dolor/" title="Lorem ipsum dolor">
+                            <img width="720" height="420" src="wp-content/uploads/sites/6/2014/10/starfish-74535_1920-720x420.jpg" class="attachment-small-blog-thumb wp-post-image" alt="starfish-74535_1920" />                            </a>
+              <div class="post-body">
+                <div class="postdate left">
+                  <span class="day">22</span>
+                  <span class="year">09/14</span>
+                </div>
+                <h2>
+                  <a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/lorem-ipsum-dolor/">Lorem ipsum dolor</a>
+                </h2>
+                <div class="post-author">By: admin</div>
+                <div class="blog-body">
+                Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque convallis leo eget quam aliquet, nec accumsan nunc cursus. Duis bibendum facilisis orci, quis lobortis lectus cursus et. Cras elit nisl,&hellip;                
+                <div class="post-info text-right">
+                  <span class="readmore"><a href="http://themes.webdevia.com/tita-wp/demo-5/2014/09/22/lorem-ipsum-dolor/"> Read more... </a></span> 
+              </div>
+                </div>
+                
+              </div>
+              </article>         
+            </li>
+              
+      </ul>
+    <div class="more-link">  </div>   
+  </div>
+  
+  
+
+          </section><section class="page-section Contactus-page page-section-1797"><div class="row menu-row">    
+              <div class="large-12 large-centered  text-center columns">
+                <h2 class="section-title">Contact us</h2><div class="space"></div>
+              </div>
+            </div><div class="row">
+<div class="large-12 text-center page-sub-title">Donec id augue lectus. Integer laoreet urna tincidunt sem suscipit, pretium congue nunc dapibus. Proin ac pretium quam. Sed in metus quis elit elementum vestibulum. Quisque tincidunt, ante a egestas venenatis, est neque mattis nisl, ut volutpat turpis erat ac neque.</div>
+</div>
+<div>
+<div class="large-6 columns p-all-0">         
+    <div class="map">
+            <div id="map-canvas" style="height: 560px;" data-latitude="-37.817612"  
+        data-longitude="144.959399" data-zoom="14" data-companyname="Your company name" 
+        data-decription="<h4>Envato Office</h4> 2 Elizabeth St, Melbourne Victoria 3000 Australia">
+      </div>
+    </div>
+    
+
+    </div>
+<div class="large-6 columns p-all-0"><div class="wpcf7" id="wpcf7-f1796-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form name="" action="index.html#wpcf7-f1796-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1796" />
+<input type="hidden" name="_wpcf7_version" value="4.0" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1796-o1" />
+<input type="hidden" name="_wpnonce" value="779c2b11cc" />
+</div>
+<p>Your Name (required)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Your Email (required)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Subject<br />
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> </p>
+<p>Your Message<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </p>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+</div>
+
+          </section></div>  
+ <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/themes.webdevia.com\/tita-wp\/demo-5\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
+</body>
+</html>
